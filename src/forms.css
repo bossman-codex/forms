@@ -63,3 +63,13 @@ button{
 #container{
     text-align: center;
 }
+
+@media screen and (max-width: 600px) {
+     .formHead{
+        width: 280px;
+        margin: auto;
+        margin-top: 100px;
+        background-color: #c41a78;
+        border-radius: 1.5%;
+     }
+  }
